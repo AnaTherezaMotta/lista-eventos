@@ -1,9 +1,8 @@
 # Lista de eventos
 
 
-![Capa do Projeto](![image](https://user-images.githubusercontent.com/65545245/198854519-8a29f3b8-02c7-4d4f-8b00-2180db7cf79b.png)
-)
-
+![Capa do Projeto(<img width="957" alt="listaeventos" src="https://user-images.githubusercontent.com/65545245/198854834-679156ad-21e4-47ed-a3c0-1f0cc0679e66.png">
+])
 # Sobre o Projeto
 
 Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
