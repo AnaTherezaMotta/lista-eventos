@@ -1,7 +1,8 @@
-# Título do Projeto
+# Lista de eventos
 
 
-![Capa do Projeto](https://picsum.photos/850/280)
+![Capa do Projeto](![image](https://user-images.githubusercontent.com/65545245/198854519-8a29f3b8-02c7-4d4f-8b00-2180db7cf79b.png)
+)
 
 # Sobre o Projeto
 
@@ -25,24 +26,21 @@ Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
 
 # Requisitos Funcionais 
 
-- [x] **Cadastrar Usuário**
-- [x] **Fazer Login**
-- [ ] Matricular em Curso
-- [ ] Cancelar Matricula
-- [ ] Visualizar Notas
-- [ ] Visualizar e Atualizar Informações do Estudante
+- [x] **Utilizar FlexBox**
+- [x] **Criar quatro itens**
+- [ ] Criar uma label para Events
+- [ ] Adicionar os textos em cada item
+- [ ] Adiconar os icones em cada item
+- [ ] Personalizar cada item no CSS
 
 # Tecnologias Usadas
 
-- [Flutter](https://flutter.dev/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- HTML
+- CSS
 
 # Contribuição
 
-Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações *pull* (*Pull Request*) para nós.
+- Leia o texto do site(https://www.w3schools.com/csS/css3_flexbox.asp) para saber mais sobre FlexBox
 
 # Autores
 
