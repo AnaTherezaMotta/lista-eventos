@@ -1,11 +1,11 @@
 # Lista de eventos
 
 
-![Capa do Projeto(<img width="957" alt="listaeventos" src="https://user-images.githubusercontent.com/65545245/198854834-679156ad-21e4-47ed-a3c0-1f0cc0679e66.png">
-])
+<img width="957" alt="listaeventos" src="https://user-images.githubusercontent.com/65545245/198854834-679156ad-21e4-47ed-a3c0-1f0cc0679e66.png">
+]
 # Sobre o Projeto
 
-Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
+O projeto desenvolvido é sobre a replicação de uma interface do Figma de uma lista de eventos, onde temos uma tag span/label para o título "Events" e quatro item com o dia, um texto e um botão, utilizando as linguagens e programação HTML e CSS com a ferramenta Visual Studio Code.Para este projeto foi usado a função FlexBox do CSS que visa fornecer uma maneira mais eficiente de colocar, alinhar e distribuir espaço entre itens em um recipiente, mesmo quando seu tamanho é desconhecido ou dinâmico.
 
 <h4 align="center"> 
 	🚧  Em desenvolvimento . . .
